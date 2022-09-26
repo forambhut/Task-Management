@@ -8,6 +8,7 @@ Simple Task Management Web app with PHP and MySQL.
 Project detail tab
 ![image](https://user-images.githubusercontent.com/58871655/192261224-25165adb-2d4e-4508-8fce-e73d1643c5c4.png)
 
+Add Task
 ![image](https://user-images.githubusercontent.com/58871655/192261332-a1841a54-85aa-411a-a3a8-0cc6bc69af9c.png)
 
 Manage List tab: list of all the lists(tab)
